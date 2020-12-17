@@ -1,6 +1,6 @@
  # terraform-static-site
 
-Objective: to provide a turn-key static blog/site hosted on AWS, with S3, CloudFront, and a custom domain name (not Route 53). This repo provides the all of the infrastructure for [peterkong.com](peterkong.com):
+Objective: to provide a turn-key static blog/site hosted on AWS, with S3, CloudFront, and a custom domain name (not Route 53). This repo provides the all of the infrastructure for [peterkong.com](https://peterkong.com):
 
 ![Image of blog](screenshot.png)
 
